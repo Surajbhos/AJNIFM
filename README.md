@@ -43,10 +43,10 @@ Training Dataset is GeM19_20.ipynb which is for 2019-2020. Model built with spec
 The hybridized LSTM-GRU-Catboost model combines the strengths of both architectures to capture both long-term and short-term dependencies and make regression the values.
 
 ## Evaluation Metrics
-The model's performance is assessed using common evaluation metrics: R2 Score, Root Mean Squared Error (RMSE), Mean Squared Error (MSE), Mean Absolute Error (MAE), and Explained Variance Score (EVS)
+The model's performance is assessed using common evaluation metrics: Root Mean Squared Error (RMSE), Mean Squared Error (MSE).
 
 ## Results
-The LSTM-GRU-Catboost model showed the best real-time prediction capabilities, demonstrating the effectiveness of the hybrid approach. Despite its computational cost, the model's accuracy and performance make it a promising choice for GeM price prediction. Other techniques used are Adversarial attack.
+The LSTM-GRU-Catboost model showed the best real-time prediction capabilities, demonstrating the effectiveness of the hybrid approach. Despite its computational cost, the model's accuracy and performance make it a promising choice for delivery time prediction.
 
-Contributions
+## Contributions
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
