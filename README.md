@@ -1,6 +1,6 @@
 # AJNIFM
-## Price Prediction using Hybridized LSTM-GRU-Catboost Model
-This repository contains the implementation of a price prediction system for GeM Procurement Portal data using a hybridized LSTM-GRU-Catboost model.
+## Delivery time Prediction using Hybridized LSTM-GRU-Catboost Model
+This repository contains the implementation of a hybridized LSTM-GRU-Catboost model for predicting time taken to deliver for goods procured through GeM Procurement Portal.
 
 ## Table of Contents
 - Introduction
@@ -15,7 +15,7 @@ This repository contains the implementation of a price prediction system for GeM
 - License
 
 ## Introduction
-GeM is a government platform for procurement of goods for Indian Government entities.
+GeM Procurement portal is a Indian government platform for procurement of goods and services which is used by Indian Government entities.
 
 ## Requirements
 - Python 3.x
@@ -25,7 +25,7 @@ GeM is a government platform for procurement of goods for Indian Government enti
 - Pytorch
 
 ## Installation
-Clone this repository: git clone https://github.com/emekss/ethereum-price-prediction.git
+Clone this repository: git clone https://github.com/Surajbhos/AJNIFM.git or Download Zip 
 Navigate to the project directory
 Install the required packages
 
