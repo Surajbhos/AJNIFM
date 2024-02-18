@@ -25,16 +25,16 @@ GeM Procurement portal is a Indian government platform for procurement of goods 
 - Pytorch
 
 ## Installation
-Clone this repository: git clone https://github.com/Surajbhos/AJNIFM.git or Download Zip 
-Navigate to the project directory
-Install the required packages
++ Clone this repository: git clone https://github.com/Surajbhos/AJNIFM.git or Download Zip 
++ Navigate to the project directory
++ Install the required packages
 
 ## Usage
-Prepare your GeM price dataset (Xlsx format).
-Update the dataset path and hyperparameters in the relevant scripts.
-Train the LSTM-GRU-Catboost model
-Evaluate the model's performance
-Make predictions using the trained model
++ Prepare your GeM price dataset (Xlsx format).
+* Update the dataset path and hyperparameters in the relevant scripts.
+* Train the LSTM-GRU-Catboost model
++ Evaluate the model's performance
++ Make predictions using the trained model
 
 ## Dataset
 Training Dataset is BID_RA_19_20.xlsx which is for 2019-2020. Model built with specified architecture is trained on this dataset and tested on Unseen dataset from 2022-2023 dataset (BID_RA_22_23.xlsx).
