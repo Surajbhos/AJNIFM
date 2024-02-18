@@ -37,7 +37,7 @@ Evaluate the model's performance
 Make predictions using the trained model
 
 ## Dataset
-Training Dataset is GeM19_20.ipynb which is for 2019-2020. Model built with specified architecture is trained on this dataset and tested on Unseen dataset from 2022-2023 dataset.
+Training Dataset is BID_RA_19_20.xlsx which is for 2019-2020. Model built with specified architecture is trained on this dataset and tested on Unseen dataset from 2022-2023 dataset (BID_RA_22_23.xlsx).
 
 ## Model Architecture
 The hybridized LSTM-GRU-Catboost model combines the strengths of both architectures to capture both long-term and short-term dependencies and make regression the values.
