@@ -31,8 +31,8 @@ GeM Procurement portal is a Indian government platform for procurement of goods 
 
 ## Usage
 + Prepare your GeM price dataset (Xlsx format).
-* Update the dataset path and hyperparameters in the relevant scripts.
-* Train the LSTM-GRU-Catboost model
++ Update the dataset path and hyperparameters in the relevant scripts.
++ Train the LSTM-GRU-Catboost model
 + Evaluate the model's performance
 + Make predictions using the trained model
 
