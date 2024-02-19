@@ -41,6 +41,8 @@ Training Dataset is BID_RA_19_20.xlsx which is for 2019-2020. Model built with s
 
 ## Model Architecture
 The hybridized LSTM-GRU-Catboost model combines the strengths of both architectures to capture both long-term and short-term dependencies and make regression the values.
+![LSTMgru](https://github.com/Surajbhos/AJNIFM/assets/44914762/719ac7f1-8d01-444a-8c2f-76bd84b0f3d8)
+
 
 ## Evaluation Metrics
 The model's performance is assessed using common evaluation metrics: Root Mean Squared Error (RMSE), Mean Squared Error (MSE).
